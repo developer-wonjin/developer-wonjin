@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=89c6ec&height=180&text=Welcome~%20wonjin's%20github&animation=twinkling&fontColor=8b63a1&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=89c6ec&height=180&text=Welcome~%20wonjin's%20github&animation=twinkling&fontColor=black&fontSize=50" />
 </div>
 
 <div style="text-align: left;"> 
@@ -15,19 +15,24 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2> <br> 
     <div style="margin: ; text-align: left;">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+        <h1>LANGUAGE</h1>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+        <h1>DATABASE</h1>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+        <h1>CI/CD</h1>        
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+        <img src ="https://img.shields.io/badge/githubaction-3776AB.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+        <img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+        <h1>FRONTEND</h1>        
+        <img src="https://img.shields.io/badge/javascript-0769AD?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
     </div>
 </div>
 
@@ -38,9 +43,10 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱‍👤 Study Record</h2> <br>
-    <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true">김영한 백엔드로드맵</a></li> 
+    <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true">Inflearn 백엔드 로드맵 (Spring, JPA)</a></li> 
+    <li><a href="https://docs.google.com/spreadsheets/d/1RvzNiNe7ro-8hBqYGRylOHQ4Plp8m58PZOicQPTW0r8/edit?gid=0#gid=0">CI / CD (Docker, GitAction, Jenkins) </a></li> 
     <li><a href="https://docs.google.com/spreadsheets/d/1iXWyuPGhWyBXo70w856hHjXDdUieKdRZ/edit?gid=305029606#gid=305029606">친절한SQL튜닝</a></li> 
-    <li><a href="https://docs.google.com/spreadsheets/d/1RvzNiNe7ro-8hBqYGRylOHQ4Plp8m58PZOicQPTW0r8/edit?gid=0#gid=0">CI / CD</a></li> 
+    <li><a href="https://docs.google.com/spreadsheets/d/1s4yGzfUK-Dfns4fTNDYY7hfpRrNK7OxVdeho5OubC_c/edit?gid=1460177680#gid=1460177680">RDB아키텍처 학습</a></li> 
 </div>
 
 <div style="text-align: left;">
