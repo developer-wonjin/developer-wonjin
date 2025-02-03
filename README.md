@@ -11,36 +11,35 @@
         ✔ 다양한 프로젝트를 경험해보고 싶습니다.
     </div> 
 </div>
-
+<br>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>  
     <div style="margin: ; text-align: left;">
-        <h1>LANGUAGE</h1>
+        <h2>LANGUAGE & FRAMEWORK</h2>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
-        <h1>DATABASE</h1>
+        <h2>DATABASE</h2>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-        <h1>CI/CD</h1>        
+        <h2>CI/CD</h2>        
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src ="https://img.shields.io/badge/githubaction-3776AB.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-        <h1>FRONTEND</h1>        
+        <h2>FRONTEND</h2>        
         <img src="https://img.shields.io/badge/javascript-0769AD?style=for-the-badge&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
     </div>
 </div>
-
+<br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎁 Certificate</h2> <br>
     <a href="https://slow-end-45e.notion.site/DB-716d84b0dad54664bc777ef7e78debcd?pvs=74">제51회 SQL 전문가 합격 (24.09.20) - 한국데이터산업진흥원</a>
 </div>
-
+<br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱‍👤 Study Record</h2> <br>
     <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true">Inflearn 백엔드 로드맵 (Spring, JPA)</a></li> 
@@ -48,15 +47,13 @@
     <li><a href="https://docs.google.com/spreadsheets/d/1iXWyuPGhWyBXo70w856hHjXDdUieKdRZ/edit?gid=305029606#gid=305029606">친절한SQL튜닝</a></li> 
     <li><a href="https://docs.google.com/spreadsheets/d/1s4yGzfUK-Dfns4fTNDYY7hfpRrNK7OxVdeho5OubC_c/edit?gid=1460177680#gid=1460177680">RDB아키텍처 학습</a></li> 
 </div>
-
+<br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱 Education</h2> <br>
     <li>SQLP 입문/ 고급 - DBian</li> 
     <li>DBA 입문 - 데이터와사람들</li> 
 </div>
-
-
-
+<br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2> <br> 
     <div style="text-align: left;"> 
