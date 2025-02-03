@@ -1,42 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Wonjin's+Github)](https://git.io/typing-svg)
-
-# Skills
-## Lang&Framework
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="">
-
-## Database
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-
-## CI/CD
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-
 <div align="center">
-  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=89c6ec&height=180&text=Welcome~%20wonjin's%20github&animation=twinkling&fontColor=8b63a1&fontSize=50" />
+</div>
 
-  <div align=center>
-    <h2>💁‍♂️ Introduction</h2>
-    <p>안녕하세요❗ 객체지향과 SQL튜닝을 좋아하는 도원진입니다 😊</p>
-    <span>✔ 글보다는 그림과 표를 통해 기술의 쓰임새를 깊이있게 공부하고자 합니다. </span>
-    <br>
-    <br>
-    <span>✔ 코드짜는 것을 좋아합니다.</span>
-    <br>
-    <br>
-    <span>✔ 다양한 프로젝트를 경험해보고 싶습니다.</span>
-    <br>
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">안녕하세요❗</h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        ✔ 객체지향과 SQL튜닝을 좋아하는 도원진입니다 😊<br>
+        ✔ 글보다는 그림과 표를 통해 기술의 쓰임새를 깊이있게 공부하고자 합니다.<br>
+        ✔ 코드짜는 것을 좋아합니다.<br>
+        ✔ 다양한 프로젝트를 경험해보고 싶습니다.
+    </div> 
+</div>
 
-  </div>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2> <br> 
+    <div style="margin: ; text-align: left;">
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    </div>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chalico)](https://solved.ac/chalico/)
-
-## Contact
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=wonjin1776@gmail.com">
-
-
-
-
-
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2> <br> 
+    <div style="text-align: left;"> 
+        <a href="mailto:wonjin1776@gmail.com"> 
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wonjin1776@gmail.com"> 
+        </a>
+    </div>  
+</div>
