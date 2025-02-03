@@ -32,6 +32,18 @@
 </div>
 
 <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎁 Certificate</h2> <br>
+    제51회 SQL 전문가 합격 (24.09.20) - 한국데이터산업진흥원 
+</div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱‍👤 Study Record</h2> <br>
+    <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true">김영한 백엔드로드맵</a></li> 
+    <li><a href="https://docs.google.com/spreadsheets/d/1iXWyuPGhWyBXo70w856hHjXDdUieKdRZ/edit?gid=305029606#gid=305029606">친절한SQL튜닝</a></li> 
+    <li><a href="https://docs.google.com/spreadsheets/d/1RvzNiNe7ro-8hBqYGRylOHQ4Plp8m58PZOicQPTW0r8/edit?gid=0#gid=0">CI / CD</a></li> 
+</div>
+
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2> <br> 
     <div style="text-align: left;"> 
         <a href="mailto:wonjin1776@gmail.com"> 
