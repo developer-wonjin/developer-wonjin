@@ -44,8 +44,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱‍👤 Study Record</h2> <br>
     <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true">Inflearn 백엔드 로드맵 (Spring, JPA)</a></li> 
     <li><a href="https://docs.google.com/spreadsheets/d/1RvzNiNe7ro-8hBqYGRylOHQ4Plp8m58PZOicQPTW0r8/edit?gid=0#gid=0">CI / CD (Docker, GitAction, Jenkins) </a></li> 
-    <li><a href="https://docs.google.com/spreadsheets/d/1iXWyuPGhWyBXo70w856hHjXDdUieKdRZ/edit?gid=305029606#gid=305029606">친절한SQL튜닝</a></li> 
-    <li><a href="https://docs.google.com/spreadsheets/d/1s4yGzfUK-Dfns4fTNDYY7hfpRrNK7OxVdeho5OubC_c/edit?gid=1460177680#gid=1460177680">RDB아키텍처 학습</a></li> 
+    <li><a href="https://docs.google.com/spreadsheets/d/1iXWyuPGhWyBXo70w856hHjXDdUieKdRZ/edit?gid=305029606#gid=305029606">도서 친절한SQL튜닝 & 오라클성능고도화1,2</a></li>
+    <li><a href="https://slow-end-45e.notion.site/SQL-Booster-c4db07cf4c254bf1b5bfdca3a57759a7">도서 SQL Booster</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1s4yGzfUK-Dfns4fTNDYY7hfpRrNK7OxVdeho5OubC_c/edit?gid=1460177680#gid=1460177680">RDB 아키텍처 정리</a></li> 
 </div>
 <br>
 <div style="text-align: left;">
