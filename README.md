@@ -33,7 +33,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎁 Certificate</h2> <br>
-    제51회 SQL 전문가 합격 (24.09.20) - 한국데이터산업진흥원 
+    <a href="https://slow-end-45e.notion.site/DB-716d84b0dad54664bc777ef7e78debcd?pvs=74">제51회 SQL 전문가 합격 (24.09.20) - 한국데이터산업진흥원</a>
 </div>
 
 <div style="text-align: left;">
@@ -42,6 +42,14 @@
     <li><a href="https://docs.google.com/spreadsheets/d/1iXWyuPGhWyBXo70w856hHjXDdUieKdRZ/edit?gid=305029606#gid=305029606">친절한SQL튜닝</a></li> 
     <li><a href="https://docs.google.com/spreadsheets/d/1RvzNiNe7ro-8hBqYGRylOHQ4Plp8m58PZOicQPTW0r8/edit?gid=0#gid=0">CI / CD</a></li> 
 </div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱 Education</h2> <br>
+    <li>SQLP 입문/ 고급 - DBian</li> 
+    <li>DBA 입문 - 데이터와사람들</li> 
+</div>
+
+
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2> <br> 
