@@ -51,8 +51,10 @@
 <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱 Education</h2> <br>
-    <li>SQLP 입문/ 고급 - DBian</li> 
-    <li>DBA 입문 - 데이터와사람들</li> 
+    <li>DAP - 데이터와사람들 (2023.08 ~ 2023.09)</li> 
+    <li>DBA - 데이터와사람들 (2023.04 ~ 2023.04)</li> 
+    <li>SQLP 심화 - DBian  (2022.06 ~ 2022.07)</li> 
+    <li>SQLP 입문 - DBian  (2022.03 ~ 2022.04)</li> 
 </div>
 <br>
 <div style="text-align: left;">
