@@ -42,7 +42,8 @@
 <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱‍👤 Study Record</h2> <br>
-    <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true">Inflearn 백엔드 로드맵 (Spring, JPA)</a></li> 
+    <li><a href="" onclick="window.open(this.href); return false;"></a></li> 
+    <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true" onclick="window.open(this.href); return false;">Inflearn 백엔드 로드맵 (Spring, JPA)</a></li> 
     <li><a href="https://docs.google.com/spreadsheets/d/1RvzNiNe7ro-8hBqYGRylOHQ4Plp8m58PZOicQPTW0r8/edit?gid=0#gid=0">CI / CD (Docker, GitAction, Jenkins) </a></li> 
     <li><a href="https://docs.google.com/spreadsheets/d/1iXWyuPGhWyBXo70w856hHjXDdUieKdRZ/edit?gid=305029606#gid=305029606">도서 친절한SQL튜닝 & 오라클성능고도화1,2</a></li>
     <li><a href="https://slow-end-45e.notion.site/SQL-Booster-c4db07cf4c254bf1b5bfdca3a57759a7">도서 SQL Booster</a></li>
