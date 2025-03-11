@@ -41,6 +41,11 @@
 </div>
 <br>
 <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱‍🐉 Portfolio</h2> <br>
+    <li><a href="https://github.com/developer-wonjin/youtube-favor">최신 개발영상 한눈에 모아보기</a></li> 
+</div>
+<br>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐱‍👤 Study Record</h2> <br>
     <li><a href="https://drive.google.com/drive/folders/1srL4HScE4cd0hu7BFNJf-TQI1Iy00uJp?ths=true">Inflearn 백엔드 로드맵 (Spring, JPA)</a></li> 
     <li><a href="https://docs.google.com/spreadsheets/d/1RvzNiNe7ro-8hBqYGRylOHQ4Plp8m58PZOicQPTW0r8/edit?gid=0#gid=0">CI / CD (Docker, GitAction, Jenkins) </a></li> 
